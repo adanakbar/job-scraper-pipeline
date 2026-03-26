@@ -3,15 +3,7 @@
 A complete **end-to-end data pipeline** that scrapes **Data Engineer jobs** from [Rozee.pk](https://www.rozee.pk), processes the data, and loads it into a **SQL Server data warehouse (Star Schema)** for analytics.
 ## Project Overview
 This project demonstrates a real-world **data engineering workflow**:
-Rozee.pk (Dynamic Website)
-↓
-Selenium Scraper
-↓
-Raw CSV (raw_jobs.csv)
-↓
-Pandas Transformation
-↓
-SQL Server (Star Schema)
+Rozee.pk (Dynamic Website) -> Selenium Scraper -> Raw CSV (raw_jobs.csv) -> Pandas Transformation -> SQL Server (Star Schema)
 
 ## Tech Stack
 - **Python**
