@@ -29,8 +29,8 @@ SQL Server (Star Schema)
 - README.md # Documentation
 
 ## Important Notes
-💡 Ensure that the ChromeDriver version matches your installed Chrome browser.
-The scraper handles dynamic content and pagination.
-Missing skills are handled gracefully (skipped if not available).
+-💡 Ensure that the ChromeDriver version matches your installed Chrome browser.
+- The scraper handles dynamic content and pagination.
+- Missing skills are handled gracefully (skipped if not available).
 
 
