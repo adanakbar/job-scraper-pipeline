@@ -21,14 +21,12 @@ SQL Server (Star Schema)
 - **ODBC / pyodbc** (Database Connection)
 
 ## Project Structure
-job-scraper-pipeline/
-│
-├── scraper.py # Scrapes job data using Selenium
-├── transform.py # Cleans and transforms raw data 
-├── load.py # Loads data into SQL Server
-├── raw_jobs.csv # Scraped raw dataset
-├── requirements.txt # Dependencies
-└── README.md # Documentation
+- job-scraper-pipeline/
+- scraper.py # Scrapes job data using Selenium
+- transform.py # Cleans and transforms raw data 
+- load.py # Loads data into SQL Server
+- requirements.txt # Dependencies
+- README.md # Documentation
 
 ## Important Notes
 💡 Ensure that the ChromeDriver version matches your installed Chrome browser.
