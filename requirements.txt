@@ -1,0 +1,5 @@
+pandas
+selenium
+pyodbc
+
+💡 Make sure to install the correct ChromeDriver version that matches your Chrome browser.
